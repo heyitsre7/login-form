@@ -12,7 +12,7 @@ function LoginForm() {
   };
 
   return (
-    <Container className="mt-5">
+    <Container className="md-5">
       <Row className="justify-content-center" >
         <Col md={4}>
           <Card>
